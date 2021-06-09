@@ -1,0 +1,2 @@
+# -WIP-Low-Fidelity-Wireframes-Restuarant-Reservation-Website-UI
+The objective of this assignment was to develop an academic defence document that communicated the entire SDLC of a website of the team's choosing. The team opted for a restaurant reservation system and I was appointed the role of UX/UI designer along with having to take up a quality assurance role. I had the responsibility of designing a few low fidelity mock ups, convert them into high-fidelity wireframes, and motivate my design choice based on the desired user experience.
